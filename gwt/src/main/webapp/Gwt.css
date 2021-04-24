@@ -1,0 +1,87 @@
+.Screen {
+	margin-top: 5% ;
+	width: 100% !important;
+}
+
+.TextBox{
+	 margin:  0px auto 10px auto ;
+     text-align: center ;
+	 display: block;
+	 border: 2px solid #29519a  !important;
+}
+
+.block{
+	display: block !important;
+}
+
+.paddingTop{
+	padding-top: 8% !important;
+}
+
+.paddingLeft{
+	padding-left: 5% !important;
+}
+
+.EnterLabel {
+margin:  0px auto 10px auto !important;
+text-align: center !important;   
+}
+
+.greenButton {
+  background: #0f5b43 !important;
+}
+
+.lightgreenButton {
+  background: #1e8c36 !important;
+}
+
+.blueButton {
+  background: #29519a !important;
+}
+
+.purpleButton {
+  background: #56324e !important;
+}
+
+.cherryText {
+  color: #841126 !important;
+}
+
+.whiteText {
+  color: white !important;
+}
+
+.greyText {
+  color: #203020 !important;
+}
+
+.inputField{
+  border: 1px solid #29519a  !important;
+}
+
+.cherryBorder{
+  border: 3px solid #841126 !important;
+}
+
+.EnterButton {
+  text-align: center;
+  display: block ;
+  margin:  5% auto 10px auto !important;
+  }
+  
+  .grid{
+  wigth: 70% !important;
+  padding-left: 5% !important;
+  }
+  
+  .option{
+  wigth: 20% !important;
+  display: block;
+  text-align: center;
+  }
+  
+  .centerAlign{
+  text-align: center;
+  }
+
+
